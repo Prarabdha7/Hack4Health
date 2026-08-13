@@ -150,7 +150,7 @@ python src/run_fusion.py IMAGE_PATH AUDIO_PATH \
 ### 8. Launch the demo frontend
 
 ```bash
-streamlit run app.py
+streamlit run app/streamlit_app.py
 ```
 
 The interface accepts a facial image, a WAV recording and the 18 numerical features, then displays modality predictions, fused prediction and explainability information.
