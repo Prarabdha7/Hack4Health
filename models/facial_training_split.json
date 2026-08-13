@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "train": 22967,
+  "validation": 2871,
+  "test": 2871,
+  "best_epoch": 30
+}
