@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+
+# Generated model files
+models/*.pth
+models/*.pkl
+models/*.joblib
+models/*.npy
